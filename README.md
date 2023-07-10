@@ -1,13 +1,32 @@
 # data_science_introduction
-Example of a newly data science project
 
 
-1. Installations
+## 1. Installations
+install python 3.9
+create a environment
 
-2. Project Motivation
+$python3.9 -m venv usecaseenv
+activate the environment
 
-3. File Descriptions
+$source usecaseenv/bin/activate
+install the dependencies
 
-4. How to Interact with your project
+$pip install -r requirements.txt
 
-5. Licensing, Authors, Acknowledgements, etc.
+
+## 2. Project Motivation
+
+Explore the airbnb comparing two cities near the beach in diferent hemispheres
+We would like to know if the data of hostness of Rio de Janeiro matches with the stereotype of cariocas.
+
+## 3. File Descriptions
+### airbnb_analysis.ipynb
+notebook where the load and analysis of the data is performed
+### requirements.txt
+file with the packages to be installed
+
+## 4. How to Interact with your project
+
+## 5. Licensing, Authors, Acknowledgements, etc.
+Licensing: GNU 2.0
+Author: Mulhermaonocodigo
