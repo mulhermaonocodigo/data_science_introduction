@@ -1,5 +1,8 @@
 # data_science_introduction
 
+## BLOG MEDIUM
+
+https://medium.com/@maysa.macedo_81181/airbnb-data-analysis-people-from-rio-de-janeiro-cariocas-are-really-more-friendly-f0d1a8e466f
 
 ## 1. Installations
 install python 3.9
